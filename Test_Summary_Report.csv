@@ -1,0 +1,17 @@
+Metric,Value,Percentage,Notes
+Total Test Cases,25,100%,Comprehensive test coverage
+Passed,8,32%,Basic functionality and edge cases
+Failed,12,48%,Main issue with offer application logic
+Not Executed,5,20%,Time constraints during testing
+Critical Defects,1,4%,DEF001 - Offer application logic not working
+High Priority Test Cases,6,24%,Basic FLATX and PERCENT functionality
+Medium Priority Test Cases,12,48%,Edge cases and integration tests
+Low Priority Test Cases,7,28%,Error handling and performance tests
+Test Coverage - Basic Functionality,100%,100%,All basic scenarios covered
+Test Coverage - Edge Cases,80%,80%,Most edge cases covered
+Test Coverage - Error Handling,40%,40%,Limited error handling tests
+Test Coverage - Performance,20%,20%,Limited performance tests
+API Testing Coverage,60%,60%,Basic API tests completed
+Integration Testing Coverage,40%,40%,Limited integration tests
+Regression Risk,High,High%,Main functionality not working
+Retest Required,17,68%,Most tests need retesting after fix
